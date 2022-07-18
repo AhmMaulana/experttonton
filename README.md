@@ -1,7 +1,6 @@
 # sub1experttonton
 
-[![Codemagic build status](https://api.codemagic.io/apps/62d51e614dc9ce7d0cb5fbbf/62d51e614dc9ce7d0cb5fbbe/status_badge.svg)]
-(https://codemagic.io/apps/62d51e614dc9ce7d0cb5fbbf/62d51e614dc9ce7d0cb5fbbe/latest_build)
+[![Codemagic build status](https://api.codemagic.io/apps/62d51e614dc9ce7d0cb5fbbf/62d51e614dc9ce7d0cb5fbbe/status_badge.svg)](https://codemagic.io/apps/62d51e614dc9ce7d0cb5fbbf/62d51e614dc9ce7d0cb5fbbe/latest_build)
 
 A new Flutter project.
 
