@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765846344570",
+    "project_id": "tonton-firebase",
+    "storage_bucket": "tonton-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765846344570:android:f7cdcbd57d07b46beb3cc3",
+        "android_client_info": {
+          "package_name": "com.example.sub1experttonton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765846344570-l92p723gfcmtu1bo1ngm7ig5fvkfe1lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEe0UsrpZNipzZWXQ1_ZclBr9vV4wPigM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765846344570-l92p723gfcmtu1bo1ngm7ig5fvkfe1lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
